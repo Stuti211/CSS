@@ -1,0 +1,62 @@
+/*Div 1  */
+/* unvisited link */
+.menu{
+  border-style:  solid;
+  border-color:rgb(197, 194, 15);
+  padding: 5px;
+}
+.menu a:link {
+  color: red;
+}
+
+/* visited link */
+.menu a:visited {
+  color: green;
+}
+
+/* mouse over link */
+.menu a:hover {
+  color: lightseagreen;
+}
+
+
+/*Div 2  */
+.menu1{
+  border-style:  solid;
+  border-color:rgb(150, 9, 16);
+  padding: 5px;
+}
+.menu1 a:link {
+  background-color: rgb(104, 233, 53);
+}
+
+.menu1     a:visited {
+  background-color: cyan;
+}
+
+.menu1  a:hover {
+  background-color: rgb(181, 50, 207);
+}
+
+.menu1  a:active {
+  background-color: rgb(207, 65, 136);
+} 
+/*Div 3  */
+.menu2{
+  border-style:  solid;
+  border-color:green;
+  padding: 5px;
+  
+}
+.menu2 a:link, a:visited {
+  background-color: #130c0b;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.menu2 a:hover, a:active {
+  background-color: red;
+}

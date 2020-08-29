@@ -1,0 +1,13 @@
+h1
+ {
+     border-style: dotted;              /* Set Border style */
+     border-color: red;
+     border-radius: 10px;
+     text-align: center;
+    }
+p {
+    border-style:  solid;
+    border-color:green;
+    font-size: 25px;
+    border-radius: 10px;
+}
